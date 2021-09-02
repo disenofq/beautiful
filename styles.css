@@ -1,0 +1,54 @@
+h1 {
+  text-align: center;
+  color: rgb(241, 222, 222);
+}
+
+nav {
+  background-color: palegoldenrod;
+  text-align-last: right;
+}
+
+#parrafoPrincipal {
+  background-color: palegoldenrod;
+  font-weight: bold;
+  font-family: "Playfair Display", serif;
+}
+
+table {
+  color: indigo;
+}
+.lista {
+  font-style: italic;
+}
+video {
+  border-radius: 20px;
+}
+
+#aleatoria {
+  border-radius: 50%;
+}
+ul {
+  list-style-image: url("https://mdn.mozillademos.org/files/11981/starsolid.gif");
+}
+#contacto {
+  background-image: url(/ArchivosMultimedia/art-and-design.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+body {
+  background-color: whitesmoke
+}
+@media (min-width: 768px) {
+  body {
+    background-color:  #F8AFA6
+  }
+}
+
+.carousel-inner{
+  width: 40%;
+  margin: auto;
+  
+}
+img{
+  border-radius: 20%;
+}
